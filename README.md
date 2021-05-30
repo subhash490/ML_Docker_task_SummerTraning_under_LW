@@ -3,3 +3,4 @@
 - Pulling  the Docker container image of CentOS image from DockerHub and creating a new container
 - Installing the Python software on the top of docker container
 - In Container we need to create simple  machine learning model 
+ // Here  i have explained the task https://lnkd.in/eAfHKsw
