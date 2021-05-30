@@ -1,0 +1,4 @@
+docker pull centos:latest                 // Command to pull image from docker hub
+docker run -it --name ML_task centos      // Command to launch new os with a name [ML_task here] with [-it] option to launch with interactive terminal
+docker cp SalaryData.csv ML_task:/        // Commnad to copy file from host to docker 
+yum install python3                       // Commmand to install python inside container
